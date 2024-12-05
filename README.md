@@ -18,4 +18,4 @@ Sam included a writup in PDF form in the folder "Part 3" showing how the equatio
 Lucas commented on the calculation for beta, and worked with Sam to fix the calculation. The 1000 coefficient needed to be outside the parentheses.
 
 Part IV 
-I wrote code for fourier analysis, but based my code similar to Osmond's Code. Although the SIR modle was easier to create because it was similar to Euler's Method, I sturggled with ploting the Frequency and Spectrum because I used the built in matlab function for fourier analysis. 
+Matthew wrote code for fourier analysis, but based Matthew's code similar to Osmond's Code. Although the SIR modle was easier to create because it was similar to Euler's Method, Matthew sturggled with ploting the Frequency and Spectrum because he used the built in matlab function for fourier analysis. 
