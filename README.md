@@ -14,5 +14,5 @@ Lucas used Osmond's Part I code ran at a 2 day time-step for the Influenza case.
 the interpolations for S, I, and R. 
 
 Part III
-I have included a writup in PDF form in the folder "Part 3" showing how I manipulated the equations to represent the code.
+Sam included a writup in PDF form in the folder "Part 3" showing how the equations were manipulated to represent the code.
 Lucas commented on the calculation for beta, and worked with Sam to fix the calculation. The 1000 coefficient needed to be outside the parentheses.
