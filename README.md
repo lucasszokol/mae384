@@ -16,3 +16,6 @@ the interpolations for S, I, and R.
 Part III
 Sam included a writup in PDF form in the folder "Part 3" showing how the equations were manipulated to represent the code.
 Lucas commented on the calculation for beta, and worked with Sam to fix the calculation. The 1000 coefficient needed to be outside the parentheses.
+
+Part IV 
+I wrote code for fourier analysis, but based my code similar to Osmond's Code. Although the SIR modle was easier to create because it was similar to Euler's Method, I sturggled with ploting the Frequency and Spectrum because I used the built in matlab function for fourier analysis. 
